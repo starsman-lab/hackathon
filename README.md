@@ -15,7 +15,12 @@ chmod +x FlClash-0.8.92-linux-amd64.AppImage
 cd squashfs-root
 ./AppRun
 
+软件
+FlClash-0.8.92-linux-amd64.AppImage
 https://github.com/chen08209/FlClash/releases
+
+代理
+https://aga0601.xn--chqu2nzsxv3y.com/api/v1/client/subscribe?token=716d64afaf2b2cf182a1f8a67f18ef28
 
 
 好的，整理如下：
