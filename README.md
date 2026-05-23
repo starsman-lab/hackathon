@@ -19,9 +19,12 @@ cd squashfs-root
 FlClash-0.8.92-linux-amd64.AppImage
 https://github.com/chen08209/FlClash/releases
 
+教程
+https://zhuanlan.zhihu.com/p/2029659525796381648
+https://blog.csdn.net/s404610154/article/details/159011279
+
 代理
 https://aga0601.xn--chqu2nzsxv3y.com/api/v1/client/subscribe?token=716d64afaf2b2cf182a1f8a67f18ef28
-
 
 好的，整理如下：
 
